@@ -156,7 +156,7 @@ def cacheplatfabid():
 #replace https://title-data.gtag-cf.com with this endpoint
 @app.route('/api/TitleData', methods=['POST'])
 def titled_data():
-    return jsonify({"MOTD": "<color=purple>WELCOME TO WELLS TAGGERS, THIS IS A REALLY COOL GAME. DON'T FORGET TO JOIN THE DISCORD! HAVE FUN AND STAY BLESSED!</color>\n\n<color=red>UPDATE: I LAVA YOU WITH FLASHBACKS, HAVE AN UPDATE THAT YOU WANT? REQUEST IT IN THE DISCORD!</color>\n\n<color=blue>DISCORD: https://discord.gg/XYhWWWtNf6</color>\n\n<color=orange>CREDITS: [TTT] WELLS_VR, QWIZX, REDAPPLE, CYCY</color>"})
+    return jsonify({"MOTD": "<color=purple>WELCOME TO SNOOZE TAG, THIS IS A REALLY COOL GAME. DON'T FORGET TO JOIN THE DISCORD! HAVE FUN AND STAY BLESSED!</color>\n\n<color=red>UPDATE: CHRISTMAS 23 WITH FLASHBACKS, HAVE AN UPDATE THAT YOU WANT? REQUEST IT IN THE DISCORD!</color>\n\n<color=blue>DISCORD: https://discord.gg/QRjhfXCbzW</color>\n\n<color=orange>CREDITS: SOLAR, HAUNTSLEEPY, KUSH, HAUNT GOOBA</color>"})
 
     if req.status_code == 200:
         return jsonify(req.json().get("data").get("Data"))
