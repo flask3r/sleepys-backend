@@ -198,23 +198,23 @@ def titledata():
             "Elder", "Honey", "Nurse", "Doctor", "Rebel", "Shape", "Ally", "Driver", "Deputy", "Wizard"
         ],
         # Bundle and Sign Configurations
-        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
+        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/SNOOZETAG</color>",
+        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/SNOOZETAG</color>",
+        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/SNOOZETAG</color>",
+        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/SNOOZETAG</color>",
         "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/UNLOADTAG</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": " <color=#00C3FF>W</color><color=#00C1FF>E</color><color=#00BEFF>L</color><color=#00BCFF>C</color><color=#00B9FF>O</color><color=#00B7FF>M</color><color=#00B4FF>E</color> <color=#00B0FF>T</color><color=#00ADFF>O</color> <color=#00A8FF>S</color><color=#00A6FF>N</color><color=#00A3FF>O</color><color=#00A1FF>O</color><color=#009FFF>Z</color><color=#009CFF>E</color> <color=#0097FF>T</color><color=#0095FF>A</color><color=#0092FF>G</color><color=#0090FF></color></color>\n\n<color=#0099c2>CURRENT UPDATE: XMAS24</color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80>YANDERE MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: FATAL & CASHSMILE</color>\n<color=#ac1a00>CREDITS FOR GAMES OG OS: VIPER</color>\n\n<color=#91A3B0>discord.gg/CHRISTMASTAG</color>",
-        "TOBAlreadyOwnCompTxt": "DISCORD.GG/CHRISTMASTAG",
-        "TOBAlreadyOwnPurchaseBundle": "CHRISTMAS TAG",
-        "TOBDefCompTxt": "DISCORD.GG/CHRISTMASTAG",
-        "TOBDefPurchaseBtnDefTxt": "CHRISTMAS TAG",
+        "MOTD": "<color=#0099c2>WELCOME TO SNOOZE TAG <color=#0099c2>CURRENT UPDATE: XMAS24</color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80>YANDERE MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: SOLAR</color>\n<color=#ac1a00>CREDITS: SOLAR, HAUNT SLEEPY, KUSH.</color>\n\n<color=#91A3B0>discord.gg/SNOOZETAG</color>",
+        "TOBAlreadyOwnCompTxt": "DISCORD.GG/SNOOZETAG",
+        "TOBAlreadyOwnPurchaseBundle": "SNOOZE TAG",
+        "TOBDefCompTxt": "DISCORD.GG/SNOOZETAG",
+        "TOBDefPurchaseBtnDefTxt": "SNOOZE TAG",
         # Legal and Versions
         "EnableCustomAuthentication": True,
         "LatestPrivacyPolicyVersion": "2024.09.20",
         "LatestTOSVersion": "2024.09.20",
-        "TOS_2024.09.20": "DISCORD.GG/CHRISTMASTAG",
+        "TOS_2024.09.20": "DISCORD.GG/SNOOZETAG",
         "EnableTwoFactorAuth": False,
         "MaxLoginAttempts": 5,
         "SessionTimeoutMinutes": 30,
@@ -246,7 +246,7 @@ def titledata():
         "RegionPriority": ["US", "EU", "AS"],
         "EnableSpectatorMode": True,
         "TutorialEnabled": True,
-        "NewsFeedUrl": "https://discord.gg/CHRISTMASTAG",
+        "NewsFeedUrl": "https://discord.gg/SNOOZETAG",
         "UpdateCheckInterval": 3600,
         "BackupInterval": 86400,
         "LogLevel": "INFO",
@@ -291,7 +291,7 @@ def titledata():
         "CustomSkinUploadLimit": 5,
         "ServerRestartIntervalHours": 24,
         "MaxReportCountPerDay": 5,
-        "BanAppealUrl": "https://discord.gg/CHRISTMASTAG",
+        "BanAppealUrl": "https://discord.gg/SNOOZETAG",
         "EnableCrossplay": True,
         "DefaultFOV": 90,
         "MaxFOV": 120,
@@ -312,7 +312,7 @@ def titledata():
         "EnableVoiceModeration": True,
         "VoiceModerationThreshold": 0.9,
         "EnablePlayerFeedback": True,
-        "FeedbackSubmissionUrl": "https://discord.gg/CHRISTMASTAG/feedback"
+        "FeedbackSubmissionUrl": "https://discord.gg/SNOOZETAG/feedback"
     }
     return jsonify(response_data)
 
